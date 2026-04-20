@@ -1,0 +1,14 @@
+CAAQMS Issue Screening Summary
+Files processed: 440
+Rows processed: 3754704
+Invalid timestamps: 0
+Duplicate timestamps: 0
+Missing hourly slots: 0
+
+Issue summary (affected points / denominator):
+- Continuous identical or near-identical values: 3346863 / 23605750 (14.18%)
+- Sudden spikes or sharp drops: 765489 / 23363482 (3.28%)
+- Unit inconsistencies (NO/NO2/NOx): 129514 / 2785052 (4.65%)
+- PM2.5 > PM10 logical inconsistency: 11474 / 2433714 (0.47%)
+- Delayed or missing data transmission: 0 / 3754704 (0.00%)
+- High RH conditions impacting PM readings: 148 / 276 (53.62%)

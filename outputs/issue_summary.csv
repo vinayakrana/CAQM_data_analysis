@@ -1,0 +1,7 @@
+issue,affected_points,events,denominator,affected_percent
+Continuous identical or near-identical values,3346863,195635.0,23605750,14.178168454719719
+Sudden spikes or sharp drops,765489,453635.0,23363482,3.276433709667078
+Unit inconsistencies (NO/NO2/NOx),129514,,2785052,4.650326098040539
+PM2.5 > PM10 logical inconsistency,11474,,2433714,0.4714604920709664
+Delayed or missing data transmission,0,0.0,3754704,0.0
+High RH conditions impacting PM readings,148,,276,53.6231884057971
